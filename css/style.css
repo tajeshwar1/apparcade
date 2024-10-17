@@ -9,11 +9,6 @@ h1.a1{
  color: black;
 }
 
-nav{
-  background-color: rgb(216, 215, 214);
-  
-}
-
 
 body{
  background-color: black;
@@ -23,18 +18,17 @@ body{
 
 
 
-/* :root{
-  background-color: black;
-  color: white;
-} */
-a.a2{
 
-  color: whitesmoke;
+.a2{
   text-decoration: none;
-  border-bottom: 2px solid white;
-  font-size: 20px;
+  border: 2px solid white;
+  padding:8px 10px;
+  border-radius: 19px;
+  color: aliceblue;
+  font-size: 16px;
 }
   .a2:hover{
-    color: red;
+    background-color: white;
+    color: black;
   }
 
